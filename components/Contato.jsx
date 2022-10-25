@@ -164,7 +164,7 @@ export default function Contato(props) {
 
 
                         <div className="form-group mb-6">
-                            <button type="submit" className="w-full px-6 py-2.5 font-medium text-lg border border-secondary bg-secondary text-white rounded-xl leading-tight uppercase hover:bg-primary-10 hover:bg-orange-400 transition duration-300 ease-in-out">{props.button}</button>
+                            <button type="submit" className="w-full px-6 py-2.5 font-medium text-lg border border-yellow-500 bg-yellow-500 text-white rounded-xl leading-tight uppercase hover:bg-primary-10 hover:bg-secondary transition duration-300 ease-in-out">{props.button}</button>
                         </div>
                     </form>
                 </div>
