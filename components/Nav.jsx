@@ -13,11 +13,11 @@ export default function Nav() {
                         <div className="flex items-center mx-20 justify-between w-full">
                             <div className="flex">
                                 <a href="./"><Image
-                                    src="/images/sulamerica-logo.png"
+                                    src="/images/golden-logo.png"
                                     //layout='responsive'
                                     width={150}
                                     height={60}
-                                    alt="Logo da Sulamérica saúde"
+                                    alt="Logo da Golden Cross saúde"
 
                                 /></a>
                             </div>
