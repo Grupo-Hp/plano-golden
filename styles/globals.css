@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.contatoImage2 {
+    background-image: url('../public/images/telemedicina.jpg');
+    background-size: cover;
+}
+
+.rgba-10 {
+    background-color: rgba(9, 46, 87,0.5);
+}
