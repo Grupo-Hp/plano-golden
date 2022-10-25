@@ -59,6 +59,7 @@ export default function Contato(props) {
             empresa: 'Golden Cross',
             imagem: 'Hpcap',
             site: 'https://www.hpcap.com.br/',
+            contact: 'planogoldenrio',
         }
     });
 
